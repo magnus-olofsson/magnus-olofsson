@@ -3,7 +3,6 @@
 - 💰 Currently working as a developer for the City of Skövde, building system integrations, automations, scripts and stuff like that.
 - 🔨 Favorite tools: [Visual Studio Code](https://code.visualstudio.com/), [Windows Terminal](https://github.com/microsoft/terminal) with [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell)
 - ⚙️ Everyday use: C#, PowerShell, SQL.
-- 🎓 Learning new stuff: I’m currently trying to get more comfortable using Python 🐍
 
 
 <!---
